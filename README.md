@@ -4,7 +4,7 @@ The project's scope encompasses an SQL-based analysis, where data manipulation t
 
 ## Data
 
-The data used in this project contains around  entries and includes  website pageviews, orders, products, order items, order item refund and website sessions providing like details brand/nonbrand website sessions, distinct usersId's, ad campaign etc.
+The data used in this project contains around 1188124 entries and includes  website pageviews, orders, products, order items, order item refund and website sessions providing like details brand/nonbrand website sessions, distinct usersId's, ad campaign etc.
 
 ## Schema
 
