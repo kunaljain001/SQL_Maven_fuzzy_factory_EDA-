@@ -8,11 +8,13 @@ The data used in this project contains around 1188124 entries and includes  webs
 
 ## Schema
 
+![Alt text]("C:\Users\Kunal Jain\Documents\Maven Advance SQL\GitHub upload\Maven Fuzzy Factory Database.jpg")
+
 The project includes a database schema that consists of several tables, including:
 
 - 'website_sessions': Contains information about each website sessions,including the created_time, UserId, source, campaign, repeated session, content, device type and http refrence website.
 - 'website_pageviews': Contains information about each website page url, including the pageview id, session id and created time.
-- 'orders': Contains information about each orders, including the order id, created time, website session, user id, primary product id, item purchased, price ($) and COGS ($).
+- 'orders': Contains information about each orders, including the order id, created time, website session, user id, primary product id, item purchased, price and COGS.
 - 'order_items': Contains information about each order item, including created time, order id, product id, primary item, price and cogs. 
 - 'order_item_refunds': Contains information about each order return, including order refund id, created time, order item, order id and refund amount.
 - 'products': Contains information about the products id, it's created time and product name.
@@ -21,12 +23,15 @@ The project includes a database schema that consists of several tables, includin
 
 The project includes several SQL queries that can be used to extract insights from the Maven fuzzy factory . Some examples of the queries include:
 
+- Bounce Rate (A/B testing) for two pages
 - Conversion funnel for website pages
+- Trend Analysis
 - Cross Selling products
+- Product conversion funnel
 - Website traffic to order conversion rate for mobile and desktop 
-- Monthly session and order volumes
-- Pre and Post product launch website analysis
-- Comparing new and repeat website sessions for each individual channels  
+- Multi Channel Bidding
+- Sales Trends
+- Site traffic breakdown  
 
 ## Usage
 
