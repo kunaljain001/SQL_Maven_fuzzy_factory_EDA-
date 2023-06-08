@@ -8,8 +8,6 @@ The data used in this project contains around 1188124 entries and includes  webs
 
 ## Schema
 
-![Alt text]("C:\Users\Kunal Jain\Documents\Maven Advance SQL\GitHub upload\Maven Fuzzy Factory Database.jpg")
-
 The project includes a database schema that consists of several tables, including:
 
 - 'website_sessions': Contains information about each website sessions,including the created_time, UserId, source, campaign, repeated session, content, device type and http refrence website.
