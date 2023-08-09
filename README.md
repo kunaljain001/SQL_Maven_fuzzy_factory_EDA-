@@ -9,6 +9,7 @@ The data used in this project contains around 1188124 entries and includes  webs
 ## Schema
 
 The project includes a database schema that consists of several tables, including:
+(![image](https://github.com/kunaljain001/SQL_Maven_fuzzy_factory_EDA-/blob/main/Schema.jpg))
 
 - 'website_sessions': Contains information about each website sessions,including the created_time, UserId, source, campaign, repeated session, content, device type and http refrence website.
 - 'website_pageviews': Contains information about each website page url, including the pageview id, session id and created time.
